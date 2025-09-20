@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/assets/masterfit-logo.png" alt="MasterFitEcosystem" width="140" />
+  <img src="./assets/masterfit-logo.png" alt="MasterFitEcosystem" width="140" />
 </p>
 
 <h1 align="center">MasterFitEcosystem</h1>

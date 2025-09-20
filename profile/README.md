@@ -1,41 +1,51 @@
-<!-- Place this file at: .github/profile/README.md -->
-
 <p align="center">
   <img src="profile/assets/masterfit-logo.png" alt="MasterFitEcosystem" width="140" />
 </p>
 
 <h1 align="center">MasterFitEcosystem</h1>
-<p align="center">Introdução ao nosso ecossistema de <strong>saúde, medidas e treinos</strong> — simples, modular e conectado.</p>
+<p align="center">A friendly, modular ecosystem for <strong>health, measurements, and training</strong>. Simple to start, ready to scale.</p>
 
 <p align="center">
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white"></a>
-  <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-API%20first-009688?logo=fastapi&logoColor=white"></a>
-  <a href="#"><img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-SSO-5A2D82?logo=keycloak&logoColor=white"></a>
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white&labelColor=20232A"></a>
-  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white"></a>
-  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-14-000000?logo=nextdotjs&logoColor=white"></a>
-  <a href="#"><img alt="Microservices" src="https://img.shields.io/badge/Microservices-Design-4C1"></a>
-  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-Containerized-2496ED?logo=docker&logoColor=white"></a>
+  <a href="https://www.python.org/" title="Python">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="42" alt="FastAPI" />
+  </a>
+  <a href="https://www.keycloak.org/" title="Keycloak">
+    <img src="https://cdn.simpleicons.org/keycloak/5A2D82" height="42" alt="Keycloak" />
+  </a>
+  <a href="https://react.dev/" title="React">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React" />
+  </a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" />
+  </a>
+  <a href="https://nextjs.org/" title="Next.js">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" alt="Next.js" />
+  </a>
+  <a href="https://www.docker.com/" title="Docker">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="Docker" />
+  </a>
 </p>
 
 ---
 
-### Sobre
+### Welcome
 
-O **MasterFitEcosystem** é uma organização que reúne serviços e apps focados em **medidas corporais, treinos e bem‑estar**. Buscamos uma experiência agradável, dados confiáveis e integração com dispositivos do dia a dia.
+We build services and apps that help people and teams **measure, train, and improve**. The organization is intentionally simple to approach and designed to grow into a full ecosystem.
 
-### O que você pode esperar
+### What we build
 
-* **Simplicidade**: interfaces diretas e fluxos claros.
-* **Modularidade**: serviços independentes que funcionam juntos.
-* **Interoperabilidade**: APIs bem definidas e integrações com wearables.
+* Measurements and biometrics
+* Workout planning and progress
+* Integrations with wearables and health platforms
+* Developer‑friendly APIs (versioned, documented)
 
-### Comece por aqui
+### Tags
 
-* 🌐 **Website/Docs**: *em breve*
-* 🧩 **Repositórios**: navegue pelos projetos nesta organização.
-* 💬 **Contato**: issues/discussions dos repositórios.
+`#health` `#fitness` `#measurements` `#workouts` `#privacy-first` `#api-first` `#clean-architecture` `#microservices`
 
 ---
 
-<p align="center">Feito com cuidado pela equipe <strong>MasterFitEcosystem</strong>.</p>
+<p align="center">Made with care by <strong>MasterFitEcosystem</strong>.</p>
